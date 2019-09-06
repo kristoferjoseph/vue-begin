@@ -2,6 +2,7 @@
 climb-a9n
 
 @static
+folder dist
 
 @http
 get /
