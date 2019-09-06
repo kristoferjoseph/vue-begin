@@ -1,2 +1,0 @@
-# vue-begin
-Begin app
